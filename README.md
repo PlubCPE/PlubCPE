@@ -14,7 +14,7 @@ I’m currently  a sophomore in Computer Engineering Faculty at Chiang Mai unive
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakkapop-soiwicha-50452623b/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakkapop-soiwicha-50452623b/)
 
 ### 🧰 Languages and Tools
 
