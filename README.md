@@ -10,6 +10,7 @@ I’m currently  a sophomore in Computer Engineering Faculty at Chiang Mai unive
       <a href="https://github.com/PlubCPE?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PlubCPE?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+
 ---
 
 ### 🧰 Languages and Tools
