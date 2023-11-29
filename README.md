@@ -1,4 +1,4 @@
-#Plazte
+# Plazte
 
 **`Student in Computer Engineering Faculty at Chiang Mai university. `**
 
